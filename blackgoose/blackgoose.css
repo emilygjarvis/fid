@@ -1,0 +1,45 @@
+body {
+font-family: "Roboto", sans-serif;
+ font-size: 100%;
+ line-height: 175%;
+ margin: 0 15% 0;
+ background: #f6f2e4;
+   }
+   a:link {
+     color: #000000;
+   }
+   a:visited {
+     color: #29AFC3;
+   }
+   a:focus, a:hover {
+     color: #FFBD59;
+     background-color: #fff;
+   }
+   a:active {
+     color: #29AFC3;
+     background-color: #fff;
+   }
+ h1 {
+   text-align: center;
+   font-family: serif;
+   font-weight: normal;
+   text-transform: uppercase;
+   border-bottom: 1px solid #57b1dc;
+   margin-top: 30px;
+ }
+ h2 {
+   font: 1.5em "Roboto";
+   color: #d1633c;
+
+ }
+ footer {
+   border-top: 1px solid #57b1dc;
+   text-align: center;
+   padding-top: 1em;
+ }
+ footer img {
+   width: 40px;
+   height: 40px;
+   margin-left: .5em;
+   margin-right: .5em;
+ }
